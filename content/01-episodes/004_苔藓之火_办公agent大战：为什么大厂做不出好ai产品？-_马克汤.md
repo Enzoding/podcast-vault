@@ -1,5 +1,6 @@
 ---
-title: "46. 办公Agent大战：为什么大厂做不出好AI产品？- 马克汤"
+title: "004_苔藓之火_办公Agent大战：为什么大厂做不出好AI产品？- 马克汤"
+original_title: "46. 办公Agent大战：为什么大厂做不出好AI产品？- 马克汤"
 date: 2026-08-12
 podcast: 苔藓之火
 pub_date: 2026-08-03

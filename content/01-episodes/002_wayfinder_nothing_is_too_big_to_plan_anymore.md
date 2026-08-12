@@ -1,5 +1,6 @@
 ---
-title: "/wayfinder: Nothing is too big to plan anymore"
+title: "002_/wayfinder: Nothing is too big to plan anymore"
+original_title: "/wayfinder: Nothing is too big to plan anymore"
 date: 2026-08-11
 source: https://www.youtube.com/watch?v=F3lL98Pj90o
 tags:
