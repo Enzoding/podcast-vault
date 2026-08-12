@@ -42,10 +42,12 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npx quartz plugin install
-      - name: Patch graph plugin (URL-decode fix for CJK filenames)
-        run: sed -i 's/function we(){let u=window.location.pathname;return/function we(){let u=window.location.pathname;try{u=decodeURIComponent(u)}catch(e){}return/' node_modules/@quartz-community/graph/dist/index.js
       - name: Build Quartz
         run: npx quartz build
+      - name: Patch graph output (URL-decode fix for CJK filenames)
+        run: |
+          F=$(grep -rl "Graph could not load" public/static/scripts/ | head -1)
+          sed -i 's/function we(){let u=window.location.pathname/function we(){let u;try{u=decodeURIComponent(window.location.pathname)}catch(e){u=window.location.pathname}/' "$F"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
