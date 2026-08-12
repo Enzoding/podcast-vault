@@ -42,6 +42,8 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npx quartz plugin install
+      - name: Patch graph plugin (URL-decode fix for CJK filenames)
+        run: sed -i 's/function we(){let u=window.location.pathname;return/function we(){let u=window.location.pathname;try{u=decodeURIComponent(u)}catch(e){}return/' node_modules/@quartz-community/graph/dist/index.js
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
