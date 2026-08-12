@@ -164,6 +164,6 @@ Meta几乎没有拿得出手的AI应用，之前要出租算力（收购Minus后
 
 ## 🧲 相关笔记
 
-- [[2026-08-03_ai_发展了_4_年，把应用发展没了？｜ai_年中复盘|AI 发展了 4 年，把应用发展没了？｜AI 年中复盘]] — 同为AI应用复盘，讨论应用困境与大厂动向
-- [[2026-08-11_wayfinder_nothing_is_too_big_to_plan_anymore|/wayfinder: Nothing is too big to plan anymore]] — 涉及AI代理、任务拆解，与办公Agent相关
-- [[2026-08-11_杠杆、垄断和泡沫：解析硅谷万亿资本闭环｜20251014|杠杆、垄断和泡沫：解析硅谷万亿资本闭环]] — 分析资本与垄断，关联大厂资源与竞争逻辑
+- [[001_42章经_ai_发展了_4_年，把应用发展没了？｜ai_年中复盘|AI 发展了 4 年，把应用发展没了？｜AI 年中复盘]] — 同为AI应用复盘，讨论应用困境与大厂动向
+- [[002_wayfinder_nothing_is_too_big_to_plan_anymore|/wayfinder: Nothing is too big to plan anymore]] — 涉及AI代理、任务拆解，与办公Agent相关
+- [[003_101_weekly_杠杆、垄断和泡沫：解析硅谷万亿资本闭环｜20251014|杠杆、垄断和泡沫：解析硅谷万亿资本闭环]] — 分析资本与垄断，关联大厂资源与竞争逻辑
