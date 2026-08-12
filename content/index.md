@@ -15,6 +15,5 @@ title: 播客知识库
 ## 🔗 已建立关联
 
 - 46. 办公Agent大战：为什么大厂做不出好AI产品？- 马克汤 ↔ AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
-- 46. 办公Agent大战：为什么大厂做不出好AI产品？- 马克汤 ↔ /wayfinder: Nothing is too big to plan anymore
 - 杠杆、垄断和泡沫：解析硅谷万亿资本闭环 ↔ AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
 
