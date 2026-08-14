@@ -7,6 +7,7 @@ title: 播客知识库
 
 ## 📚 最近笔记
 
+- [[007_6a78761c|007_Lenny's Podcast: Product ｜ Career ｜ Growth_The playbook for building high-talent-density teams ｜ Adam Ward, Head of Talent at Cursor]]
 - [[006_6a72bd82|006_硅谷101_E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”]]
 - [[005_6a75424b|005_42章经_从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青]]
 - [[004_6a6b73e9|004_苔藓之火_办公Agent大战：为什么大厂做不出好AI产品？- 马克汤]]
@@ -14,8 +15,11 @@ title: 播客知识库
 - [[002_f3ll98pj|002_/wayfinder: Nothing is too big to plan anymore]]
 - [[001_6a5b98a6|001_42章经_AI 发展了 4 年，把应用发展没了？｜AI 年中复盘]]
 
-## 🔗 已建立关联（最新 10 条 / 共 10 条）
+## 🔗 已建立关联（最新 12 条 / 共 13 条）
 
+- 007_Lenny's Podcast: Product ｜ Career ｜ Growth_The playbook for building high-talent-density teams ｜ Adam Ward, Head of Talent at Cursor ↔ 001_42章经_AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
+- 007_Lenny's Podcast: Product ｜ Career ｜ Growth_The playbook for building high-talent-density teams ｜ Adam Ward, Head of Talent at Cursor ↔ 004_苔藓之火_办公Agent大战：为什么大厂做不出好AI产品？- 马克汤
+- 007_Lenny's Podcast: Product ｜ Career ｜ Growth_The playbook for building high-talent-density teams ｜ Adam Ward, Head of Talent at Cursor ↔ 005_42章经_从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
 - 006_硅谷101_E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” ↔ 003_101 Weekly_杠杆、垄断和泡沫：解析硅谷万亿资本闭环
 - 006_硅谷101_E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” ↔ 005_42章经_从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
 - 006_硅谷101_E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传” ↔ 001_42章经_AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
@@ -25,7 +29,6 @@ title: 播客知识库
 - 004_苔藓之火_办公Agent大战：为什么大厂做不出好AI产品？- 马克汤 ↔ 001_42章经_AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
 - 004_苔藓之火_办公Agent大战：为什么大厂做不出好AI产品？- 马克汤 ↔ 002_/wayfinder: Nothing is too big to plan anymore
 - 004_苔藓之火_办公Agent大战：为什么大厂做不出好AI产品？- 马克汤 ↔ 003_101 Weekly_杠杆、垄断和泡沫：解析硅谷万亿资本闭环
-- 003_101 Weekly_杠杆、垄断和泡沫：解析硅谷万亿资本闭环 ↔ 001_42章经_AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
 
-📊 共 **6** 篇笔记 · **4** 个播客 · **10** 条关联
+📊 共 **7** 篇笔记 · **5** 个播客 · **13** 条关联
 
