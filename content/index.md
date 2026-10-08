@@ -20,9 +20,9 @@ title: 播客知识库
 
 ## 🔗 已建立关联（最新 12 条 / 共 30 条）
 
-- 011_Next Token ｜ 词元之外_#005 国庆补课：PA 大战白热化；游戏、软件、硬件，一切都将开源？ ↔ 006_硅谷101_E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”
 - 011_Next Token ｜ 词元之外_#005 国庆补课：PA 大战白热化；游戏、软件、硬件，一切都将开源？ ↔ 009_Lenny's Podcast: Product ｜ Career ｜ Growth_AI’s third era: the rise of persistent AI coworkers ｜ Tara Seshan (Product Lead ChatGPT Work)
 - 011_Next Token ｜ 词元之外_#005 国庆补课：PA 大战白热化；游戏、软件、硬件，一切都将开源？ ↔ 010_Invest Like the Best with Patrick O'Shaughnessy_Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]
+- 011_Next Token ｜ 词元之外_#005 国庆补课：PA 大战白热化；游戏、软件、硬件，一切都将开源？ ↔ 006_硅谷101_E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”
 - 011_Next Token ｜ 词元之外_#005 国庆补课：PA 大战白热化；游戏、软件、硬件，一切都将开源？ ↔ 004_苔藓之火_办公Agent大战：为什么大厂做不出好AI产品？- 马克汤
 - 010_Invest Like the Best with Patrick O'Shaughnessy_Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493] ↔ 009_Lenny's Podcast: Product ｜ Career ｜ Growth_AI’s third era: the rise of persistent AI coworkers ｜ Tara Seshan (Product Lead ChatGPT Work)
 - 010_Invest Like the Best with Patrick O'Shaughnessy_Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493] ↔ 003_101 Weekly_杠杆、垄断和泡沫：解析硅谷万亿资本闭环
