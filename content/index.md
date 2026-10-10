@@ -7,7 +7,7 @@ title: 播客知识库
 
 ## 📚 最近笔记
 
-- [[013_x|013_Matt Pocock (YouTube 直播对谈)_LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX]]
+- [[013_mn9dggml|013_Matt Pocock (YouTube 直播对谈)_LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX]]
 - [[012_6ac7ba00|012_INDIGO TALK_当软件像牛奶一样便宜，我们还要交付什么？]]
 - [[011_6ac6dabe|011_Next Token ｜ 词元之外_#005 国庆补课：PA 大战白热化；游戏、软件、硬件，一切都将开源？]]
 - [[010_6aba599d|010_Invest Like the Best with Patrick O'Shaughnessy_Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]]]
@@ -20,10 +20,10 @@ title: 播客知识库
 
 ## 🔗 已建立关联（最新 12 条 / 共 38 条）
 
-- 013_Matt Pocock (YouTube 直播对谈)_LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX ↔ 009_Lenny's Podcast: Product ｜ Career ｜ Growth_AI’s third era: the rise of persistent AI coworkers ｜ Tara Seshan (Product Lead ChatGPT Work)
-- 013_Matt Pocock (YouTube 直播对谈)_LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX ↔ 012_INDIGO TALK_当软件像牛奶一样便宜，我们还要交付什么？
-- 013_Matt Pocock (YouTube 直播对谈)_LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX ↔ 002_/wayfinder: Nothing is too big to plan anymore
 - 013_Matt Pocock (YouTube 直播对谈)_LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX ↔ 007_Lenny's Podcast: Product ｜ Career ｜ Growth_The playbook for building high-talent-density teams ｜ Adam Ward, Head of Talent at Cursor
+- 013_Matt Pocock (YouTube 直播对谈)_LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX ↔ 002_/wayfinder: Nothing is too big to plan anymore
+- 013_Matt Pocock (YouTube 直播对谈)_LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX ↔ 012_INDIGO TALK_当软件像牛奶一样便宜，我们还要交付什么？
+- 013_Matt Pocock (YouTube 直播对谈)_LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX ↔ 009_Lenny's Podcast: Product ｜ Career ｜ Growth_AI’s third era: the rise of persistent AI coworkers ｜ Tara Seshan (Product Lead ChatGPT Work)
 - 012_INDIGO TALK_当软件像牛奶一样便宜，我们还要交付什么？ ↔ 002_/wayfinder: Nothing is too big to plan anymore
 - 012_INDIGO TALK_当软件像牛奶一样便宜，我们还要交付什么？ ↔ 011_Next Token ｜ 词元之外_#005 国庆补课：PA 大战白热化；游戏、软件、硬件，一切都将开源？
 - 012_INDIGO TALK_当软件像牛奶一样便宜，我们还要交付什么？ ↔ 001_42章经_AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
